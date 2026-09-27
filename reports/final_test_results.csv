@@ -1,0 +1,13 @@
+model_name,final_test_accuracy
+centralized,73.27
+sparse_finetuned,70.66
+fed_sparse,70.66
+fed_sparse_noniid_nc1,67.02
+fed_sparse_noniid_nc5,70.38
+fed_sparse_noniid_nc10,71.57
+fed_sparse_noniid_nc50,73.08
+fed_baseline_iid,72.12
+fed_baseline_noniid_nc1,63.41
+fed_baseline_noniid_nc5,70.31
+fed_baseline_noniid_nc10,70.75
+fed_baseline_noniid_nc50,72.54
